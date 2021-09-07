@@ -14,6 +14,7 @@
 
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
+ - [Jaideep Kumar Singh](https://github.com/jstar2708)
   
   
 
