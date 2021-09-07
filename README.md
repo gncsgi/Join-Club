@@ -17,7 +17,7 @@
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
-  
+ - [ayush Sonone] (https://github.com/ayushsonone07)
   
 
  
