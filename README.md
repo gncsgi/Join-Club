@@ -12,7 +12,7 @@
    
 ## Club Members:
 
- - [Kinshuk Banerjee](https://github.com/kinshukbanerjee889)
+ - [Kinshuk Banerjee](https://github.com/kinshukbanerjee899)
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
  - [Dipanshu Mishra](https://github.com/dipanshumishra)
