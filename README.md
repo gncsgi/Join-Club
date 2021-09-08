@@ -19,6 +19,7 @@
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
+ - [Kshitiz Sharma](https://github.com/clunkiersalt817)
  - [ayush sonone](https://github.com/ayushsonone07)
  - [Aditya Wani](https://github.com/Aditya-0215)
  - [Yash Gupta](https://github.com/Yash-Gupta1209)
