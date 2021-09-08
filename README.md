@@ -70,7 +70,14 @@
   
    ![image](https://user-images.githubusercontent.com/55068936/132330660-b511610e-fec6-469b-97d0-746a275d6af3.png)
 
+ ----
+  #### Create Pull Request
+     click on `Contribute`
+ 
+ ![image](https://user-images.githubusercontent.com/55068936/132480137-e8d9fdf9-aa69-499d-acc2-1fac3e9f18e0.png)
 
-  
+  ----
+ 
+ Add Title And Description & `Create Pull Request`
 
 </details>
