@@ -18,7 +18,7 @@
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
  - [ayush sonone](https://github.com/ayushsonone07)
- - [Aditya Wani] (https://github.com/Aditya-0215)
+ - [Aditya Wani](https://github.com/Aditya-0215)
   
 
  
