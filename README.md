@@ -12,6 +12,7 @@
    
 ## Club Members:
 
+ - [Rupesh Kachhi](https://github.com/rupesh-kachhi)
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
  - [Chirag Jhariya](https://github.com/Cheeku363)
