@@ -12,18 +12,21 @@
    
 ## Club Members:
 
-
+ - [Kinshuk Banerjee](https://github.com/kinshukbanerjee889)
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
+ - [Rahul Nair](https://github.com/HatGuy68)
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
+ - [Kshitiz Sharma](https://github.com/clunkiersalt817)
  - [ayush sonone](https://github.com/ayushsonone07)
  - [Aditya Wani](https://github.com/Aditya-0215)
  - [Yash Gupta](https://github.com/Yash-Gupta1209)
  - [Rupesh Kachhi](https://github.com/rupesh-kachhi)
  - [Aditya Pratap Singh Chauhan](https://github.com/Aditya2086)
  - [Arjit sahu](https://github.com/01arjitsahu)
+ - [Anmol sahu](https://github.com/anmolsahu901)
 
   
   
