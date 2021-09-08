@@ -12,13 +12,14 @@
    
 ## Club Members:
 
+ - [Yash Gupta](https://github.com/Yash-Gupta1209)
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
  - [ayush sonone](https://github.com/ayushsonone07)
-  -[Yash Gupta] (https://github.com/Yash-Gupta1209) 
+ 
   
 
  
