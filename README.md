@@ -22,8 +22,8 @@
  - [Aditya Wani](https://github.com/Aditya-0215)
  - [Yash Gupta](https://github.com/Yash-Gupta1209)
  - [Rupesh Kachhi](https://github.com/rupesh-kachhi)
+ - [Aditya Pratap Singh Chauhan](https://github.com/Aditya2086)
 
- 
   
   
   
