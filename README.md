@@ -15,6 +15,7 @@
 
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
+ - [Rahul Nair](https://github.com/HatGuy68)
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
