@@ -12,15 +12,16 @@
    
 ## Club Members:
 
- - [Yash Gupta](https://github.com/Yash-Gupta1209)
+
  - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
  - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
  - [ayush sonone](https://github.com/ayushsonone07)
- 
-  
+ - [Aditya Wani](https://github.com/Aditya-0215)
+ - [Yash Gupta](https://github.com/Yash-Gupta1209)
+ - [Rupesh Kachhi](https://github.com/rupesh-kachhi)
 
  
   
@@ -71,7 +72,14 @@
   
    ![image](https://user-images.githubusercontent.com/55068936/132330660-b511610e-fec6-469b-97d0-746a275d6af3.png)
 
+ ----
+  #### Create Pull Request
+     click on `Contribute`
+ 
+ ![image](https://user-images.githubusercontent.com/55068936/132480137-e8d9fdf9-aa69-499d-acc2-1fac3e9f18e0.png)
 
-  
+  ----
+ 
+ Add Title And Description & `Create Pull Request`
 
 </details>
