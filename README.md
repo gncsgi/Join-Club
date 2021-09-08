@@ -2,13 +2,43 @@
 
 > Exclusively for [Global Engineering College](https://www.globalengineeringcollege.com/), Jabalpur Students
 
+----
+
 ## Club Lead:
- <table>
+
+   
+<table>
 <tr>
-<td align="center"><a href="https://github.com/Siddhant-K-code"><img alt="" src="https://avatars.githubusercontent.com/Siddhant-K-code" width="200px;"><br><sub><b>Siddhant Khare</b></sub><br>
-  </td>
+<td align="center"><a href="https://github.com/Siddhant-K-code"><img src="https://github.com/Siddhant-K-code.png" width=300px height=300px /></a></br> <h4 style="color:red;"><a href="https://github.com/Siddhant-K-code">Siddhant Khare</a></h4>
+<a href="https://www.linkedin.com/in/siddhantkhare24//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+ <a href="https://twitter.com/Siddhant_K_code"><img src="https://img.shields.io/badge/Siddhant_K_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
+</td>
 </tr>
-   </table>
+</table>
+   
+   
+----
+
+## Core Team Members:
+   
+<table>
+<tr>
+<td align="center">
+</td>
+
+<tr>
+<td align="center">
+</td>
+ 
+ <tr>
+<td align="center">
+</td>
+
+</tr>
+</table>   
+   
+   
+----
    
 ## Club Members:
 
