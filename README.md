@@ -11,7 +11,10 @@
 <tr>
 <td align="center"><a href="https://github.com/Siddhant-K-code"><img src="https://github.com/Siddhant-K-code.png" width=300px height=300px /></a></br> <h4 style="color:red;"><a href="https://github.com/Siddhant-K-code">Siddhant Khare</a></h4>
 <a href="https://www.linkedin.com/in/siddhantkhare24//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+   &nbsp;&nbsp;
  <a href="https://twitter.com/Siddhant_K_code"><img src="https://img.shields.io/badge/Siddhant_K_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
+   &nbsp;&nbsp;
+   <a href="mailto:Siddhantkhare2694@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </td>
 </tr>
 </table>
@@ -27,7 +30,7 @@
 | [Sanjay Singh Patel](https://github.com/sanjay-singh-patel) | [![sanjay-singh-patel](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-singh-patel/) | [cs1963@global.org.in](mailto:cs1963@global.org.in) |
 | [Sakshi Khare](https://github.com/SakshiKhare7)|[![sakshi-khare-09036119b](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-khare-09036119b/)| [cs1957@global.org.in](mailto:cs1957@global.org.in) |
 | [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507) | [![shubhanshu-kushwaha-850b87141](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-kushwaha-850b87141/) | [cs1916@global.org.in](mailto:cs1916@global.org.in) |
-| Sejal Nema |[![sejal-nema-55b5941b3](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-nema-55b5941b3/)| <!-- [cs1957@global.org.in](mailto:cs1957@global.org.in) --> |
+| [Sejal Nema](https://github.com/sejalnema27) |[![sejal-nema-55b5941b3](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-nema-55b5941b3/)| <!-- [cs1957@global.org.in](mailto:cs1957@global.org.in) --> |
 | [Palak Dubey](https://github.com/pal-web) |[![palak-dubey-563045203](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-dubey-563045203/)| [cs1917@global.org.in](mailto:cs1917@global.org.in) |
  
 ----
@@ -35,10 +38,7 @@
 ## Club Members:
 
  - [Kinshuk Banerjee](https://github.com/kinshukbanerjee899)
- - [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)
- - [Sanjay Singh Patel](https://github.com/sanjay-singh-patel)
  - [Dipanshu Mishra](https://github.com/dipanshumishra)
- - [Rahul Nair](https://github.com/HatGuy68)
  - [Chirag Jhariya](https://github.com/Cheeku363)
  - [Himanshu shukla](https://github.com/himanshushukla2604)  
  - [Jaideep Kumar Singh](https://github.com/jstar2708)
@@ -54,7 +54,6 @@
  - [Kratika Chaturvedi](https://github.com/Kratika02)
  - [Siddhant Chouksey](https://github.com/HeySiddhant)
  - [Harshit ojha](https://github.com/HeySkidee)
- - [Sakshi Khare](https://github.com/SakshiKhare7)
   
 
   
