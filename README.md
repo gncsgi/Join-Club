@@ -62,7 +62,7 @@
  - [Kratika Chaturvedi](https://github.com/Kratika02)
  - [Siddhant Chouksey](https://github.com/HeySiddhant)
  - [Harshit ojha](https://github.com/HeySkidee)
-  
+ - [Sakshi Khare](https://github.com/SakshiKhare7)
   
 
   
