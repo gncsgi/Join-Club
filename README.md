@@ -21,23 +21,15 @@
 
 ## Core Team Members:
    
-<table>
-<tr>
-<td align="center">
-</td>
-
-<tr>
-<td align="center">
-</td>
+| Name | Linkedin | College Mail |
+--- | --- | ---
+| [Rahul Nair](https://github.com/HatGuy68) |[![irahul-2k](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irahul-2k/) | [cs1959@global.org.in](mailto:cs1959@global.org.in) |
+| [Sanjay Singh Patel](https://github.com/sanjay-singh-patel) | [![sanjay-singh-patel](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-singh-patel/) | [cs1963@global.org.in](mailto:cs1963@global.org.in) |
+| [Sakshi Khare](https://github.com/SakshiKhare7)|[![sakshi-khare-09036119b](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-khare-09036119b/)| [cs1957@global.org.in](mailto:cs1957@global.org.in) |
+| [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507) | [![shubhanshu-kushwaha-850b87141](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-kushwaha-850b87141/) | [cs1916@global.org.in](mailto:cs1916@global.org.in) |
+| Sejal Nema |[![sejal-nema-55b5941b3](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-nema-55b5941b3/)| <!-- [cs1957@global.org.in](mailto:cs1957@global.org.in) --> |
+| [Palak Dubey](https://github.com/pal-web) |[![palak-dubey-563045203](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-dubey-563045203/)| [cs1917@global.org.in](mailto:cs1917@global.org.in) |
  
- <tr>
-<td align="center">
-</td>
-
-</tr>
-</table>   
-   
-   
 ----
    
 ## Club Members:
