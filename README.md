@@ -46,6 +46,7 @@
  - [ayush sonone](https://github.com/ayushsonone07)
  - [Aditya Wani](https://github.com/Aditya-0215)
  - [Yash Gupta](https://github.com/Yash-Gupta1209)
+ - [Priya Singh](https://github.com/priyasinghjat)
  - [Rupesh Kachhi](https://github.com/rupesh-kachhi)
  - [Aditya Pratap Singh Chauhan](https://github.com/Aditya2086)
  - [Arjit sahu](https://github.com/01arjitsahu)
