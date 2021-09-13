@@ -58,11 +58,8 @@
  - [Shashank Kushwaha](https://github.com/ShashankK02)
  - [Ashwini Sharma](https://github.com/Ashwini17)
  - [Harshita shrivas](https://github.com/Harshitabh)
-
-  
-  
-  
-  
+ - [Srishti Gupta](https://github.com/Srishti19111999)
+   
   
   
   
