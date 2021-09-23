@@ -62,8 +62,7 @@
  - [Srishti Gupta](https://github.com/Srishti19111999)
  - [Shruti Chakraborty](https://github.com/chakraborty-shruti)
  - [Sanchit Verma](https://github.com/Sanchitverma78)
-
-  
+ - [Vibhor Jaiswal](https://github.com/VibhorJaiswal)
   
   
   
