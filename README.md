@@ -36,7 +36,8 @@
 ----
    
 ## Club Members:
-
+   
+ - [Om Bhandari](https://github.com/OmBhandari)
  - [Kinshuk Banerjee](https://github.com/kinshukbanerjee899)
  - [Dipanshu Mishra](https://github.com/dipanshumishra)
  - [Chirag Jhariya](https://github.com/Cheeku363)
