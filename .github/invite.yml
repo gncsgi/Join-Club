@@ -1,0 +1,15 @@
+on:
+  issue_comment:
+    types: [created, edited]
+name: Invite a contributor
+
+jobs:
+  invite-contributor:
+    name: Prepare invite for new contributor
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: invite-contributor
+      uses: ./action
+      env:
+        GITHUB_TOKEN: ${{ secrets.BDOUGIE_TOKEN }}
