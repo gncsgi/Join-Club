@@ -31,9 +31,9 @@
 | [Shubhanshu Kushwaha](https://github.com/Shubhanshu-1507)   | [![shubhanshu-kushwaha-850b87141](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-kushwaha-850b87141/) | [cs1916@global.org.in](mailto:cs1916@global.org.in)          |
 | [Sejal Nema](https://github.com/sejalnema27)                | [![sejal-nema-55b5941b3](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-nema-55b5941b3/)                   | <!-- [cs1957@global.org.in](mailto:cs1957@global.org.in) --> |
 | [Palak Dubey](https://github.com/pal-web)                   | [![palak-dubey-563045203](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-dubey-563045203/)                 | [cs1917@global.org.in](mailto:cs1917@global.org.in)          |
-
----
-
+|[Sakshi Singh](https://github.com/Sakshi58)                | [![sakshi-singh-96ba64209](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-singh-96ba64209/)               | [cs2038@global.org.in](mailto:cs2038@global.org.in)        |
+|[Sourav Kumar](https://github.com/Sourav8243)              | [![sourav-kumar-8b2691137](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-kumar-8b2691137/)                | [cs20182@global.org.in](mailto:cs20182@global.org.in)       |
+|[Vanshika Thakur](https://github.com/Vanshika0930)         | [![vanshika-thakur-ab8088227](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-thakur-ab8088227/)             | [cs20112@global.org.in](mailto:cs20112@global.org.in)       |
 ## Join the org
 
 In order for you to get access to the [GitHub Actions](https://github.com/features/actions) and follow along, you will need to join the [github-craftwork](https://github.com/gncsgi) organization.
