@@ -34,7 +34,7 @@
 
 ---
 
-## Part 0: Join the org
+## Join the org
 
 In order for you to get access to the [GitHub Actions](https://github.com/features/actions) and follow along, you will need to join the [github-craftwork](https://github.com/gncsgi) organization.
 
@@ -43,5 +43,8 @@ Invite yourself to the organization by typing `.invite me` in [this issue](https
 Once you have submitted your comment, head over to the [Actions tab](https://github.com/gncsgi/Join-Club/actions?workflow=Invite+a+contributor) for the the repo to find action triggered by your comment.
 
 Note that this could take up to 30 seconds to show. Also be sure to check your email for that invite.
+
+![Invite Example](https://user-images.githubusercontent.com/55068936/145666613-e6f969b8-85f1-4646-a24c-e42367de5d3d.png)
+
 
 ---
